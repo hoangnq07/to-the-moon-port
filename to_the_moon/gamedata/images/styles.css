@@ -1,0 +1,64 @@
+.prodName { font-family: Verdana, Arial, Helvetica, sans-serif; 
+          font-size: 18px; 
+          color: #666666; 
+          font-weight: bold; } 
+
+.prodPrice { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 36px; 
+           color: #009900; 
+         font-weight: bold; }
+
+.website { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 18px; 
+           color: #009900; 
+         font-weight: bold; }
+
+.website A:visited {
+COLOR: #009900; TEXT-DECORATION: none
+;}
+.website A:hover {
+COLOR: #009900; TEXT-DECORATION: underline
+;}
+.website A:link {
+COLOR: #009900; TEXT-DECORATION: none
+;}
+.website A:active {
+COLOR: #009900; TEXT-DECORATION: underline
+;}
+
+ 
+.text { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 12px; 
+           color: #000000; 
+           font-weight: bold;}
+
+.text A:visited {
+COLOR: #000000; TEXT-DECORATION: underline
+;}
+.text A:hover {
+COLOR: #009900; TEXT-DECORATION: underline
+;}
+.text A:link {
+COLOR: #000000; TEXT-DECORATION: underline
+;}
+.text A:active {
+COLOR: #000000; TEXT-DECORATION: underline
+;}
+
+
+.special { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 12px; 
+           color: #228B22; 
+         font-weight: bold; }  
+
+.table1 { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 12px; 
+         color: #666666; 
+         background-color: #FFFFFF;
+         border: 13px solid #66554d; } 
+
+.table2 { font-family: Verdana, Arial, Helvetica, sans-serif; 
+         font-size: 12px; 
+         color: #666666; 
+         background-color: #FFFFFF;
+         border: 1px solid #66554d;} 
